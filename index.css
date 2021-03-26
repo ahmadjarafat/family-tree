@@ -145,6 +145,7 @@ right connector from last child*/
 }
 
 .container{
+    direction: column;
     display: flex;
     align-items: center;
     justify-content: center;
